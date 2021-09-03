@@ -1,4 +1,4 @@
-# sicredi
+# Sicredi
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandro/agenda/blob/master/LICENSE) 
 
