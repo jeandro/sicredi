@@ -13,16 +13,6 @@ Desenvolvimento de um pequeno projeto básico de importação Geração e valida
 - Spring Boot
 - Maven
 
-
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos:
-
-- Java 11
-
-
 ## clonar repositório
 
 ```bash
